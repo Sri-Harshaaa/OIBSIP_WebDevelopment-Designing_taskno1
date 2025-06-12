@@ -18,5 +18,5 @@ This project focuses on layout design and clean visual presentation.
 2. Open `index.html` in your browser
 
 ## 🎯 Status
-Completed — non-responsive, static version
+Completed — responsive, static version
 
